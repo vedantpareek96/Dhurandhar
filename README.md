@@ -1,2 +1,2 @@
-# dhurandhaar
+# Dhurandhar
 Graph-based reasoning over Indian open data for retrieval, counterfactual analysis, and dataset discovery
