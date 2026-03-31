@@ -1,4 +1,4 @@
-# Dhurandhaar
+# Dhurandhar
 
 An experimental knowledge-graph pipeline for Indian open data. The project ingests data.gov.in metadata into Neo4j, classifies and normalizes tags, generates dataset embeddings, and uses those signals to answer analytical and counterfactual questions.
 
