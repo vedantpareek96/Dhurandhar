@@ -32,5 +32,5 @@ EMBEDDING_MODEL = "text-embedding-3-small"
 EMBEDDING_DIMENSIONS = 1536
 
 # Reasoning LLM
-REASONING_MODEL = "gpt-4o"
+REASONING_MODEL = "gpt-4o-mini"
 
