@@ -1,0 +1,10 @@
+datagovindia>=1.0.2
+neo4j>=5.0
+langchain>=0.2
+langchain-community>=0.2
+langchain-openai>=0.1
+openai>=1.30
+pandas>=2.0
+requests>=2.31
+tqdm>=4.66
+python-dotenv>=1.0
